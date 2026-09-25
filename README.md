@@ -1,4 +1,4 @@
-# Smart-Aquaculture-Water-Quality-Index-Prediction-using-Ensemble-Machine-Learning
+# Smart-Aquaculture-Water-Quality-Index-Prediction-using-Machine-Learning
 ## Project Overview
 
 Water quality is one of the most critical factors affecting aquaculture productivity and fish health. Poor water quality can lead to disease outbreaks, reduced growth, and significant economic losses.
